@@ -2,7 +2,7 @@ var payload;
 
 function loadPayload(pl){
 	sessionStorage.Queue = pl;
-	progress.innerHTML="Kuloda "+pl+".. Dikilani !!";
+	progress.innerHTML="Kuloader "+pl+".. Dikilani !!";
 	setTimeout(poc, 1500);
 }
 
