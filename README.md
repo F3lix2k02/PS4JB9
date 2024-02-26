@@ -3,7 +3,7 @@
 <hr>
 <h1>Steps:</h1>
 <ul>
-        <li>In the console browser go to : <a href="https://felix2k02.github.io/PS4JB9">https://felix2k02.github.io/PS4JB9</a> </li>
+        <li>In the console browser go to : <a href="https://F3lix2k02.github.io/PS4JB9">https://felix2k02.github.io/PS4JB9</a> </li>
         <li>Immediately all content will be installed in the offline cache, once finished exit the browser and turn off the internet</li>
         <li>Finally run the exploit followed by the payload of your choice</li>
 </ul><hr>
